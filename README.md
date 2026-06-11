@@ -57,7 +57,7 @@ Acmebot **v5 is now generally available**. Deploy the latest release with a sing
 
 The v5 deployment template supports Azure Public only because Flex Consumption is not available in Azure China or Azure Government.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpolymind-inc%2Facmebot%2Fmaster%2Fdeploy%2Fazuredeploy.json/uiFormDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2Fpolymind-inc%2Facmebot%2Fmaster%2Fdeploy%2FuiFormDefinition.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a>
+<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fscottramert-intrepidnet%2Facmebot%2Fmaster%2Fdeploy%2Fazuredeploy.json/uiFormDefinitionUri/https%3A%2F%2Fraw.githubusercontent.com%2Fscottramert-intrepidnet%2Facmebot%2Fmaster%2Fdeploy%2FuiFormDefinition.json" target="_blank"><img src="https://aka.ms/deploytoazurebutton" /></a>
 
 For detailed setup instructions and DNS provider configuration, see the [Getting Started](https://acmebot.dev/guide/getting-started.html) guide.
 
