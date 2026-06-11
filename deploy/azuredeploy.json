@@ -326,8 +326,8 @@
       "kind": "functionapp",
       "tags": "[variables('appServicePlanTags')]",
       "sku": {
-        "name": "FC1",
-        "tier": "FlexConsumption"
+        "name": "Y1",
+        "tier": "Dynamic"
       },
       "properties": {
         "reserved": true
